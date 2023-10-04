@@ -1,0 +1,203 @@
+[
+    {
+        "host_id": 2787,
+        "host_name": "John",
+        "neighbourhood_group": "Brooklyn",
+        "room_type": "Private room",
+        "price": 149,
+        "minimum_nights": 1,
+        "number_of_reviews": 9,
+        "availability_365": 365
+    },
+    {
+        "host_id": 2845,
+        "host_name": "Jennifer",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Entire home/apt",
+        "price": 225,
+        "minimum_nights": 1,
+        "number_of_reviews": 45,
+        "availability_365": 355
+    },
+    {
+        "host_id": 26394,
+        "host_name": "Claude & Sophie",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Private room",
+        "price": 80,
+        "minimum_nights": 4,
+        "number_of_reviews": 0,
+        "availability_365": 200
+    },
+    {
+        "host_id": 30193,
+        "host_name": "Tommi",
+        "neighbourhood_group": "Queens",
+        "room_type": "Entire home/apt",
+        "price": 150,
+        "minimum_nights": 10,
+        "number_of_reviews": 58,
+        "availability_365": 75
+    },
+    {
+        "host_id": 31374,
+        "host_name": "Shon",
+        "neighbourhood_group": "Downtown",
+        "room_type": "Private room",
+        "price": 44,
+        "minimum_nights": 3,
+        "number_of_reviews": 108,
+        "availability_365": 311
+    },
+    {
+        "host_id": 2845,
+        "host_name": "Jennifer",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Entire home/apt",
+        "price": 225,
+        "minimum_nights": 1,
+        "number_of_reviews": 45,
+        "availability_365": 355
+    },
+    {
+        "host_id": 4632,
+        "host_name": "Elisabeth",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Private room",
+        "price": 150,
+        "minimum_nights": 3,
+        "number_of_reviews": 0,
+        "availability_365": 365
+    },
+    {
+        "host_id": 4869,
+        "host_name": "LisaRoxanne",
+        "neighbourhood_group": "Brooklyn",
+        "room_type": "Entire home/apt",
+        "price": 89,
+        "minimum_nights": 1,
+        "number_of_reviews": 270,
+        "availability_365": 194
+    },
+    {
+        "host_id": 7192,
+        "host_name": "Laura",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Entire home/apt",
+        "price": 80,
+        "minimum_nights": 10,
+        "number_of_reviews": 9,
+        "availability_365": 0
+    },
+    {
+        "host_id": 7322,
+        "host_name": "Chris",
+        "neighbourhood_group": "Queens",
+        "room_type": "Entire home/apt",
+        "price": 200,
+        "minimum_nights": 3,
+        "number_of_reviews": 74,
+        "availability_365": 129
+    },
+    {
+        "host_id": 4632,
+        "host_name": "Elisabeth",
+        "neighbourhood_group": "Downtown",
+        "room_type": "Private room",
+        "price": 150,
+        "minimum_nights": 3,
+        "number_of_reviews": 0,
+        "availability_365": 365
+    },
+    {
+        "host_id": 4869,
+        "host_name": "LisaRoxanne",
+        "neighbourhood_group": "Brooklyn",
+        "room_type": "Entire home/apt",
+        "price": 89,
+        "minimum_nights": 1,
+        "number_of_reviews": 270,
+        "availability_365": 194
+    },
+    {
+        "host_id": 7192,
+        "host_name": "Laura",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Entire home/apt",
+        "price": 80,
+        "minimum_nights": 10,
+        "number_of_reviews": 9,
+        "availability_365": 0
+    },
+    {
+        "host_id": 7322,
+        "host_name": "Chris",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Entire home/apt",
+        "price": 200,
+        "minimum_nights": 3,
+        "number_of_reviews": 74,
+        "availability_365": 129
+    },
+    {
+        "host_id": 7356,
+        "host_name": "Garon",
+        "neighbourhood_group": "Queens",
+        "room_type": "Private room",
+        "price": 60,
+        "minimum_nights": 45,
+        "number_of_reviews": 49,
+        "availability_365": 0
+    },
+    {
+        "host_id": 8967,
+        "host_name": "Shunichi",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Private room",
+        "price": 79,
+        "minimum_nights": 2,
+        "number_of_reviews": 430,
+        "availability_365": 220
+    },
+    {
+        "host_id": 7490,
+        "host_name": "MaryEllen",
+        "neighbourhood_group": "Downtown",
+        "room_type": "Private room",
+        "price": 79,
+        "minimum_nights": 2,
+        "number_of_reviews": 118,
+        "availability_365": 0
+    },
+    {
+        "host_id": 7549,
+        "host_name": "Ben",
+        "neighbourhood_group": "Queens",
+        "room_type": "Entire home/apt",
+        "price": 150,
+        "minimum_nights": 1,
+        "number_of_reviews": 160,
+        "availability_365": 188
+    },
+    {
+        "host_id": 7702,
+        "host_name": "Lena",
+        "neighbourhood_group": "Queens",
+        "room_type": "Entire home/apt",
+        "price": 135,
+        "minimum_nights": 5,
+        "number_of_reviews": 53,
+        "availability_365": 6
+    },
+    {
+        "host_id": 7989,
+        "host_name": "Kate",
+        "neighbourhood_group": "Manhattan",
+        "room_type": "Private room",
+        "price": 85,
+        "minimum_nights": 2,
+        "number_of_reviews": 188,
+        "availability_365": 39
+    }
+
+]
