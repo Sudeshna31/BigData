@@ -1,6 +1,6 @@
-sku,name,description,warehouse_num
-1000,'iPhone','Apple',01
-1001,'Galaxy S21','Samsung',02
-1002,'Pixel 5','Google',03
-1003,'OnePlus 9 Pro','OnePlus',04
-1004,'Xiaomi Mi 11','Xiaomi',01
+user_id,date,file_type,file_location,file,content
+1000,'10-04-2022','png',file1
+1001,'11-04-2022','jpeg',file2
+1002,'12-04-2022','pdf',file3
+1003,'13-04-2022','png',file4
+1004,'14-04-2022','jpeg',file5

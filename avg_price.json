@@ -1,15 +1,15 @@
 [
     {
         "_id": "Queens",
-        "average_price": 142.3728813559322
+        "average_price": 139.0
     },
     {
         "_id": "Manhattan",
-        "average_price": 125.06818181818181
+        "average_price": 133.77777777777777
     },
     {
         "_id": "Brooklyn",
-        "average_price": 110.66666666666667
+        "average_price": 109.0
     },
     {
         "_id": "Downtown",
